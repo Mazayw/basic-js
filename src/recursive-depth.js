@@ -28,14 +28,3 @@ class DepthCalculator {
 module.exports = {
   DepthCalculator
 };
-/*
-if (Array.isArray(arr)) {
-      arr.forEach(el => {
-        if (Array.isArray(el)) {
-          return 1 + this.calculateDepth(el);
-        } else {
-          return 1;
-        }
-      });
-
-*/
